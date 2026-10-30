@@ -1,0 +1,8 @@
+{
+ "version": "2.3.9",
+ "url": "updates/2.3.9/PhotoPrep-2.3.9-update.exe",
+ "sha256": "32078318f1361d980c83406828ceaa92cdbc5a77a9a4c940fdd27caf07d0e81c",
+ "size": 1948672,
+ "kind": "app",
+ "notes": "Automatic updates: Photo Prep now checks for updates, downloads them in the background and installs them when it closes."
+}
