@@ -1,8 +1,8 @@
 {
- "version": "2.4.1",
- "url": "updates/2.4.1/PhotoPrep-2.4.1-update.exe",
- "sha256": "5452d8fc6115d945f033a3dc1399bf5ca0b777821bab4f3be0227d773f62b519",
- "size": 1974784,
+ "version": "2.4.2",
+ "url": "updates/2.4.2/PhotoPrep-2.4.2-update.exe",
+ "sha256": "8302a39d5bb9a5af9e15090da4061b9c8f5c69231485885cec778e1b232d7e1c",
+ "size": 1977856,
  "kind": "app",
- "notes": "Audit fixes: a download blocked by Windows Security isn't retried every 4 hours (click the footer to retry); only installed copies update; no update during Windows shutdown; arrow keys don't switch photos mid-mask; leaner Prep self-check."
+ "notes": "Prep keeps legs and walkers/canes it used to paint green"
 }
