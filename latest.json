@@ -1,8 +1,8 @@
 {
- "version": "2.4.0",
- "url": "updates/2.4.0/PhotoPrep-2.4.0-update.exe",
- "sha256": "94c5e4962b4d57c309e59b3750b01d75c46af8dc6b16509fef648cd0bdf00dd1",
- "size": 1957888,
+ "version": "2.4.1",
+ "url": "updates/2.4.1/PhotoPrep-2.4.1-update.exe",
+ "sha256": "5452d8fc6115d945f033a3dc1399bf5ca0b777821bab4f3be0227d773f62b519",
+ "size": 1974784,
  "kind": "app",
- "notes": "Prep checks its own green fill with the face finder before painting, and keeps any body it would have painted. Up/down arrow keys step through photos from anywhere in Edit."
+ "notes": "Audit fixes: a download blocked by Windows Security isn't retried every 4 hours (click the footer to retry); only installed copies update; no update during Windows shutdown; arrow keys don't switch photos mid-mask; leaner Prep self-check."
 }
