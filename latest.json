@@ -1,8 +1,8 @@
 {
- "version": "2.3.9",
- "url": "updates/2.3.9/PhotoPrep-2.3.9-update.exe",
- "sha256": "32078318f1361d980c83406828ceaa92cdbc5a77a9a4c940fdd27caf07d0e81c",
- "size": 1948672,
+ "version": "2.4.0",
+ "url": "updates/2.4.0/PhotoPrep-2.4.0-update.exe",
+ "sha256": "94c5e4962b4d57c309e59b3750b01d75c46af8dc6b16509fef648cd0bdf00dd1",
+ "size": 1957888,
  "kind": "app",
- "notes": "Automatic updates: Photo Prep now checks for updates, downloads them in the background and installs them when it closes."
+ "notes": "Prep checks its own green fill with the face finder before painting, and keeps any body it would have painted. Up/down arrow keys step through photos from anywhere in Edit."
 }
