@@ -1,8 +1,8 @@
 {
- "version": "2.4.2",
- "url": "updates/2.4.2/PhotoPrep-2.4.2-update.exe",
- "sha256": "8302a39d5bb9a5af9e15090da4061b9c8f5c69231485885cec778e1b232d7e1c",
- "size": 1977856,
+ "version": "2.4.3",
+ "url": "updates/2.4.3/PhotoPrep-2.4.3-update.exe",
+ "sha256": "e457628f395df8e1cf265c5054b0eec4f137dfe7b0427954d1c2923d1253cb4f",
+ "size": 1982976,
  "kind": "app",
- "notes": "Prep keeps legs and walkers/canes it used to paint green"
+ "notes": "After an update installs, Photo Prep reopens by itself and shows the new version."
 }
