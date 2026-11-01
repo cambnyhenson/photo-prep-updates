@@ -1,8 +1,8 @@
 {
- "version": "2.4.4",
- "url": "updates/2.4.4/PhotoPrep-2.4.4-update.exe",
- "sha256": "62f92887237c9dabbf0ec6d5a5fafae74244faf48beae34e60f9103f2cced834",
- "size": 1989632,
+ "version": "2.4.5",
+ "url": "updates/2.4.5/PhotoPrep-2.4.5-update.exe",
+ "sha256": "6852745f33a8754edde76e5cb01c7a5704a6a1637f9fd7e8042504bbe3277400",
+ "size": 2003968,
  "kind": "app",
- "notes": "When you open Photo Prep and an update is out, it now installs right then with a progress bar instead of waiting for you to close the app."
+ "notes": "Flagged photos now show as red rows in the photo list. In Masks, Undo Prep's Fill on This Photo lets you fix a photo by hand from the original."
 }
