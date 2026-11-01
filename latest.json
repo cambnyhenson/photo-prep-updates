@@ -1,8 +1,8 @@
 {
- "version": "2.4.6",
- "url": "updates/2.4.6/PhotoPrep-2.4.6-update.exe",
- "sha256": "7f33bcd7bc8734706a63695641f20204951ecbf480fea3cea910be3fd7c62e98",
- "size": 2010112,
+ "version": "2.5.0",
+ "url": "updates/2.5.0/PhotoPrep-2.5.0-update.exe",
+ "sha256": "3402b498a81815c45ae473c449a2197b10c7501e6aa3f2e45c5454389769a731",
+ "size": 2104320,
  "kind": "app",
- "notes": "New Start New Card button on the Export screen: clears the photos and logs, keeps the template, and takes you back to Prep for the next card."
+ "notes": "New: Photo Prep opens on a dashboard - Door Mode (memory cards, as before) or Meet and Greet (camera on USB, each shot finished automatically, Print button with the Windows print options, 8x10)."
 }
