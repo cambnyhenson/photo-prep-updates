@@ -1,8 +1,8 @@
 {
- "version": "2.5.0",
- "url": "updates/2.5.0/PhotoPrep-2.5.0-update.exe",
- "sha256": "3402b498a81815c45ae473c449a2197b10c7501e6aa3f2e45c5454389769a731",
- "size": 2104320,
+ "version": "2.5.1",
+ "url": "updates/2.5.1/PhotoPrep-2.5.1-update.exe",
+ "sha256": "ebc48b9c934b86969bbc2a096537eed0c5b7429075f56f7551fa3da333de55f8",
+ "size": 2162688,
  "kind": "app",
- "notes": "New: Photo Prep opens on a dashboard - Door Mode (memory cards, as before) or Meet and Greet (camera on USB, each shot finished automatically, Print button with the Windows print options, 8x10)."
+ "notes": "Meet and Greet now connects straight to a Nikon D5300 over its Wi-Fi with one click: connection status, shots come in by themselves, and the camera's settings can be changed from the PC."
 }
