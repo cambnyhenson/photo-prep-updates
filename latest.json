@@ -1,8 +1,8 @@
 {
- "version": "2.4.5",
- "url": "updates/2.4.5/PhotoPrep-2.4.5-update.exe",
- "sha256": "6852745f33a8754edde76e5cb01c7a5704a6a1637f9fd7e8042504bbe3277400",
- "size": 2003968,
+ "version": "2.4.6",
+ "url": "updates/2.4.6/PhotoPrep-2.4.6-update.exe",
+ "sha256": "7f33bcd7bc8734706a63695641f20204951ecbf480fea3cea910be3fd7c62e98",
+ "size": 2010112,
  "kind": "app",
- "notes": "Flagged photos now show as red rows in the photo list. In Masks, Undo Prep's Fill on This Photo lets you fix a photo by hand from the original."
+ "notes": "New Start New Card button on the Export screen: clears the photos and logs, keeps the template, and takes you back to Prep for the next card."
 }
