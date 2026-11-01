@@ -1,8 +1,8 @@
 {
- "version": "2.5.3",
- "url": "updates/2.5.3/PhotoPrep-2.5.3-update.exe",
- "sha256": "a458db996722dd1c127267662902238914070df60954dcf198a264b201fe3123",
- "size": 2168320,
+ "version": "2.5.4",
+ "url": "updates/2.5.4/PhotoPrep-2.5.4-update.exe",
+ "sha256": "e6b99d4afe16ce984d690c413aa7ee0dbcf985418b92f4069c431d84c9fe0d3c",
+ "size": 2171904,
  "kind": "app",
- "notes": "Meet and Greet: a Photo Transfer box in the lower-left corner of Edit shows the camera connection and each shot coming over."
+ "notes": "Meet and Greet hardening: a shot deleted on the camera no longer drops the connection, no lost or duplicate shots after a reconnect or a restart, Print waits for the AI, and Edit stays put while you fix an earlier shot."
 }
