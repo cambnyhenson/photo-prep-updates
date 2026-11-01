@@ -1,8 +1,8 @@
 {
- "version": "2.5.2",
- "url": "updates/2.5.2/PhotoPrep-2.5.2-update.exe",
- "sha256": "10e3f5ad254de400b23ae40fa5e319abecbde8d06f592adbcda27a5e41af97ee",
- "size": 2164736,
+ "version": "2.5.3",
+ "url": "updates/2.5.3/PhotoPrep-2.5.3-update.exe",
+ "sha256": "a458db996722dd1c127267662902238914070df60954dcf198a264b201fe3123",
+ "size": 2168320,
  "kind": "app",
- "notes": "The photographer keeps the camera's own preview while connected: if the camera was left saving to a computer, Photo Prep puts it back to the card."
+ "notes": "Meet and Greet: a Photo Transfer box in the lower-left corner of Edit shows the camera connection and each shot coming over."
 }
