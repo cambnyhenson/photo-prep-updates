@@ -1,8 +1,8 @@
 {
- "version": "2.5.5",
- "url": "updates/2.5.5/PhotoPrep-2.5.5-update.exe",
- "sha256": "b98404c69a43e5b6640796726a8d45cd4251cbf0cc85852229412c450a9e1375",
+ "version": "2.5.6",
+ "url": "updates/2.5.6/PhotoPrep-2.5.6-update.exe",
+ "sha256": "23b4f2177f8c76d8907b94b82e25570e6aa1e4ab630a121761a45533fef18eba",
  "size": 2177024,
  "kind": "app",
- "notes": "Fixes connecting to the D5300 over Wi-Fi (the camera ignored how Photo Prep opened its session). Clearer messages if it can't connect, and a Connection log to send if it still won't."
+ "notes": "The mode button at the top is now black."
 }
