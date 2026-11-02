@@ -1,8 +1,8 @@
 {
- "version": "2.5.11",
- "url": "updates/2.5.11/PhotoPrep-2.5.11-update.exe",
- "sha256": "f4a14e2758b116ae8edac56a5247dbc795f8843bf201ef5c1fb2b312fd918f18",
- "size": 2528768,
+ "version": "2.5.12",
+ "url": "updates/2.5.12/PhotoPrep-2.5.12-update.exe",
+ "sha256": "47c459f9c003656bf04febe80f7325b247ca10c3123c64f914d6da23135d883c",
+ "size": 2533376,
  "kind": "app",
- "notes": "When the Nikon D5300 connects over Wi-Fi, a picture of the camera fades in at the bottom left of the Camera page."
+ "notes": "Meet and Greet: Browse under Shots folder works while the camera is connected. New shots go to the picked folder without disconnecting the camera."
 }
