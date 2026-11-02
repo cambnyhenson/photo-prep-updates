@@ -1,8 +1,8 @@
 {
- "version": "2.5.4",
- "url": "updates/2.5.4/PhotoPrep-2.5.4-update.exe",
- "sha256": "e6b99d4afe16ce984d690c413aa7ee0dbcf985418b92f4069c431d84c9fe0d3c",
- "size": 2171904,
+ "version": "2.5.5",
+ "url": "updates/2.5.5/PhotoPrep-2.5.5-update.exe",
+ "sha256": "b98404c69a43e5b6640796726a8d45cd4251cbf0cc85852229412c450a9e1375",
+ "size": 2177024,
  "kind": "app",
- "notes": "Meet and Greet hardening: a shot deleted on the camera no longer drops the connection, no lost or duplicate shots after a reconnect or a restart, Print waits for the AI, and Edit stays put while you fix an earlier shot."
+ "notes": "Fixes connecting to the D5300 over Wi-Fi (the camera ignored how Photo Prep opened its session). Clearer messages if it can't connect, and a Connection log to send if it still won't."
 }
