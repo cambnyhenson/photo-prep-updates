@@ -1,8 +1,8 @@
 {
- "version": "2.5.8",
- "url": "updates/2.5.8/PhotoPrep-2.5.8-update.exe",
- "sha256": "4913f490fca34d61e46212cd9d8663c09ff1398ebd3597b351c6f33e15588804",
+ "version": "2.5.9",
+ "url": "updates/2.5.9/PhotoPrep-2.5.9-update.exe",
+ "sha256": "46ef2e5c6f58c1bc56736425f50a9f52bd8fc3975a745508973dcc888b7af806",
  "size": 2205696,
  "kind": "app",
- "notes": "Print now opens a Print Preview: the print on the chosen paper as it will come out, with printer, paper, orientation, copies and the Windows printer settings."
+ "notes": "Print Preview: fixed the page showing the print sideways and a false margin warning on photo printers that report their paper turned."
 }
