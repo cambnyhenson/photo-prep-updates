@@ -1,8 +1,8 @@
 {
- "version": "2.5.6",
- "url": "updates/2.5.6/PhotoPrep-2.5.6-update.exe",
- "sha256": "23b4f2177f8c76d8907b94b82e25570e6aa1e4ab630a121761a45533fef18eba",
- "size": 2177024,
+ "version": "2.5.7",
+ "url": "updates/2.5.7/PhotoPrep-2.5.7-update.exe",
+ "sha256": "d129757f318ac433ead23b4f901b55cb4a3185a033cf7ec1125a029ef3d6b8e5",
+ "size": 2177536,
  "kind": "app",
- "notes": "The mode button at the top is now black."
+ "notes": "Fixes the D5300 Wi-Fi connection hanging at 'opening a session': Photo Prep now connects the way Nikon cameras expect."
 }
