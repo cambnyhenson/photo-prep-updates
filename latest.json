@@ -1,8 +1,8 @@
 {
- "version": "2.5.9",
- "url": "updates/2.5.9/PhotoPrep-2.5.9-update.exe",
- "sha256": "46ef2e5c6f58c1bc56736425f50a9f52bd8fc3975a745508973dcc888b7af806",
- "size": 2205696,
+ "version": "2.5.10",
+ "url": "updates/2.5.10/PhotoPrep-2.5.10-update.exe",
+ "sha256": "6e9d3cb74bc5001b8033710b346d9b513566bc90e306631a7a14f65dbad334e0",
+ "size": 2210304,
  "kind": "app",
- "notes": "Print Preview: fixed the page showing the print sideways and a false margin warning on photo printers that report their paper turned."
+ "notes": "Meet and Greet always prints 8x10, even with a 6x8 show template open. Door Mode keeps the template's own size (6x8), and saving a template from Meet and Greet keeps its Door size."
 }
