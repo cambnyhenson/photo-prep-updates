@@ -1,8 +1,8 @@
 {
- "version": "2.5.7",
- "url": "updates/2.5.7/PhotoPrep-2.5.7-update.exe",
- "sha256": "d129757f318ac433ead23b4f901b55cb4a3185a033cf7ec1125a029ef3d6b8e5",
- "size": 2177536,
+ "version": "2.5.8",
+ "url": "updates/2.5.8/PhotoPrep-2.5.8-update.exe",
+ "sha256": "4913f490fca34d61e46212cd9d8663c09ff1398ebd3597b351c6f33e15588804",
+ "size": 2205696,
  "kind": "app",
- "notes": "Fixes the D5300 Wi-Fi connection hanging at 'opening a session': Photo Prep now connects the way Nikon cameras expect."
+ "notes": "Print now opens a Print Preview: the print on the chosen paper as it will come out, with printer, paper, orientation, copies and the Windows printer settings."
 }
