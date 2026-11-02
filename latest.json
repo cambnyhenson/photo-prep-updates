@@ -1,8 +1,8 @@
 {
- "version": "2.5.13",
- "url": "updates/2.5.13/PhotoPrep-2.5.13-update.exe",
- "sha256": "8656f2da42640fbe87b850ddcac03268df1d96406001c34dcbfdd3000b24b126",
- "size": 2535936,
+ "version": "2.5.14",
+ "url": "updates/2.5.14/PhotoPrep-2.5.14-update.exe",
+ "sha256": "643564f5d1ff509708ef7b9937156fedcd9c72dddeb8fd4cecf0748ea3526337",
+ "size": 2538496,
  "kind": "app",
- "notes": "Print preview: papers a printer driver lists wider than tall (10 x 8, 8 x 6) no longer show or print the photo sideways. Dashboard: the Meet and Greet tile says the camera connects by Wi-Fi Direct or USB."
+ "notes": "Print preview writes each printer's paper list (as its driver reports it) to printer-papers.txt, for checking the Kodak 68xx, Sinfonia S1245 and DNP drivers."
 }
