@@ -1,8 +1,8 @@
 {
- "version": "2.5.14",
- "url": "updates/2.5.14/PhotoPrep-2.5.14-update.exe",
- "sha256": "643564f5d1ff509708ef7b9937156fedcd9c72dddeb8fd4cecf0748ea3526337",
- "size": 2538496,
+ "version": "2.5.15",
+ "url": "updates/2.5.15/PhotoPrep-2.5.15-update.exe",
+ "sha256": "e5df3972f582d12aa72e896f0c196acd5b7f59e6a4ee849baa3d24517cbfad5a",
+ "size": 2548736,
  "kind": "app",
- "notes": "Print preview writes each printer's paper list (as its driver reports it) to printer-papers.txt, for checking the Kodak 68xx, Sinfonia S1245 and DNP drivers."
+ "notes": "Print preview: Print size (Full paper, 5x7, 4x6) with Scale to fit, so a 5x7 can come off the 8x10 printer: centred with corner trim marks, on the smallest paper that holds it."
 }
