@@ -1,8 +1,8 @@
 {
- "version": "2.5.10",
- "url": "updates/2.5.10/PhotoPrep-2.5.10-update.exe",
- "sha256": "6e9d3cb74bc5001b8033710b346d9b513566bc90e306631a7a14f65dbad334e0",
- "size": 2210304,
+ "version": "2.5.11",
+ "url": "updates/2.5.11/PhotoPrep-2.5.11-update.exe",
+ "sha256": "f4a14e2758b116ae8edac56a5247dbc795f8843bf201ef5c1fb2b312fd918f18",
+ "size": 2528768,
  "kind": "app",
- "notes": "Meet and Greet always prints 8x10, even with a 6x8 show template open. Door Mode keeps the template's own size (6x8), and saving a template from Meet and Greet keeps its Door size."
+ "notes": "When the Nikon D5300 connects over Wi-Fi, a picture of the camera fades in at the bottom left of the Camera page."
 }
