@@ -1,8 +1,8 @@
 {
- "version": "2.5.16",
- "url": "updates/2.5.16/PhotoPrep-2.5.16-update.exe",
- "sha256": "de2d4876a865919b41ce0bcae810507d9dc69d77f773694901229a3c27633859",
- "size": 2547712,
+ "version": "2.6.0",
+ "url": "updates/2.6.0/PhotoPrep-2.6.0-update.exe",
+ "sha256": "ea710df5688d9d879a912eb75fa98f996b70f2466f29b85e0526ed557736b987",
+ "size": 2606592,
  "kind": "app",
- "notes": "Audit fixes: Door Mode no longer picks up Meet and Greet's 8x10 after a restart or an opened shots folder; a 5x7's small paper is no longer remembered for the next 8x10; the camera's dot stays on the Camera tab after visiting the dashboard. Code tidied."
+ "notes": "Meet and Greet: connect the D5300 directly over USB; two 5x7s (or 4x6s) on one sheet; Reprint; printer status and tonight's print count in the Photo Transfer box; the AI loads ahead of the first shot; carry on after an unexpected close. Everywhere: drive space warnings, a print log, a Send logs button, paper remembered per printer, show nights run to 5 AM."
 }
