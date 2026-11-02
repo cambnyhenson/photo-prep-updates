@@ -1,8 +1,8 @@
 {
- "version": "2.5.12",
- "url": "updates/2.5.12/PhotoPrep-2.5.12-update.exe",
- "sha256": "47c459f9c003656bf04febe80f7325b247ca10c3123c64f914d6da23135d883c",
- "size": 2533376,
+ "version": "2.5.13",
+ "url": "updates/2.5.13/PhotoPrep-2.5.13-update.exe",
+ "sha256": "8656f2da42640fbe87b850ddcac03268df1d96406001c34dcbfdd3000b24b126",
+ "size": 2535936,
  "kind": "app",
- "notes": "Meet and Greet: Browse under Shots folder works while the camera is connected. New shots go to the picked folder without disconnecting the camera."
+ "notes": "Print preview: papers a printer driver lists wider than tall (10 x 8, 8 x 6) no longer show or print the photo sideways. Dashboard: the Meet and Greet tile says the camera connects by Wi-Fi Direct or USB."
 }
