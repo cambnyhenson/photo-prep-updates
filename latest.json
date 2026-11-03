@@ -1,8 +1,8 @@
 {
- "version": "2.6.0",
- "url": "updates/2.6.0/PhotoPrep-2.6.0-update.exe",
- "sha256": "ea710df5688d9d879a912eb75fa98f996b70f2466f29b85e0526ed557736b987",
- "size": 2606592,
+ "version": "2.6.1",
+ "url": "updates/2.6.1/PhotoPrep-2.6.1-update.exe",
+ "sha256": "b81c582e3e851ce5f3ffaf97cb57f19688b0c968c83902e71771ba5cbc4d387e",
+ "size": 2619392,
  "kind": "app",
- "notes": "Meet and Greet: connect the D5300 directly over USB; two 5x7s (or 4x6s) on one sheet; Reprint; printer status and tonight's print count in the Photo Transfer box; the AI loads ahead of the first shot; carry on after an unexpected close. Everywhere: drive space warnings, a print log, a Send logs button, paper remembered per printer, show nights run to 5 AM."
+ "notes": "Audit fixes: restarting mid-show keeps tonight's template and 8x10; 'carry on' after a crash now appears and brings in shots taken while down; Reprint keeps the print size; print log works while open in Excel; USB camera: busy no longer drops the link; tool column fits small screens."
 }
