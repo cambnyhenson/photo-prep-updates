@@ -1,8 +1,8 @@
 {
- "version": "2.6.1",
- "url": "updates/2.6.1/PhotoPrep-2.6.1-update.exe",
- "sha256": "b81c582e3e851ce5f3ffaf97cb57f19688b0c968c83902e71771ba5cbc4d387e",
- "size": 2619392,
+ "version": "2.6.2",
+ "url": "updates/2.6.2/PhotoPrep-2.6.2-update.exe",
+ "sha256": "90e720a061d3764470e26679266c6dcaf532b36089bbdd0a6292e59336e0ca4d",
+ "size": 2622976,
  "kind": "app",
- "notes": "Audit fixes: restarting mid-show keeps tonight's template and 8x10; 'carry on' after a crash now appears and brings in shots taken while down; Reprint keeps the print size; print log works while open in Excel; USB camera: busy no longer drops the link; tool column fits small screens."
+ "notes": "Edit: hovering over the up/down arrows under the preview shows the photo's file name in a bar above the pointer; stepping through photos stops at the first and last instead of wrapping round."
 }
