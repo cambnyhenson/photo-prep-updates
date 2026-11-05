@@ -1,8 +1,8 @@
 {
- "version": "2.6.3",
- "url": "updates/2.6.3/PhotoPrep-2.6.3-update.exe",
- "sha256": "356f1816ff151095c3fcd1c977c8399124b22c4dc0f50580944e7ae88a091503",
- "size": 2612224,
+ "version": "2.6.4",
+ "url": "updates/2.6.4/PhotoPrep-2.6.4-update.exe",
+ "sha256": "4cad9da2c97493542c9347d07230727fe4ec5879236af3371169b37660d24afa",
+ "size": 2616320,
  "kind": "app",
- "notes": "Edit: the Global/Unique star is gone. Every change in Edit applies to the photo on screen only, so a forgotten star can no longer change the rest of the card. Apply to All puts a photo's look on every photo; Save Template saves the template."
+ "notes": "Edit: drag photos (or a folder of them) from File Explorer onto the photo list to import them; backgrounds can be dragged onto Import > Background. The Import buttons now open in the folder you last imported from."
 }
