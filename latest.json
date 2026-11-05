@@ -1,8 +1,8 @@
 {
- "version": "2.6.2",
- "url": "updates/2.6.2/PhotoPrep-2.6.2-update.exe",
- "sha256": "90e720a061d3764470e26679266c6dcaf532b36089bbdd0a6292e59336e0ca4d",
- "size": 2622976,
+ "version": "2.6.3",
+ "url": "updates/2.6.3/PhotoPrep-2.6.3-update.exe",
+ "sha256": "356f1816ff151095c3fcd1c977c8399124b22c4dc0f50580944e7ae88a091503",
+ "size": 2612224,
  "kind": "app",
- "notes": "Edit: hovering over the up/down arrows under the preview shows the photo's file name in a bar above the pointer; stepping through photos stops at the first and last instead of wrapping round."
+ "notes": "Edit: the Global/Unique star is gone. Every change in Edit applies to the photo on screen only, so a forgotten star can no longer change the rest of the card. Apply to All puts a photo's look on every photo; Save Template saves the template."
 }
