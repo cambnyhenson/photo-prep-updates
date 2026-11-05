@@ -1,8 +1,8 @@
 {
- "version": "2.6.4",
- "url": "updates/2.6.4/PhotoPrep-2.6.4-update.exe",
- "sha256": "4cad9da2c97493542c9347d07230727fe4ec5879236af3371169b37660d24afa",
- "size": 2616320,
+ "version": "2.6.5",
+ "url": "updates/2.6.5/PhotoPrep-2.6.5-update.exe",
+ "sha256": "1f9e2341cc32764e4432205a67d310d2bc3728d7457c3f6d0323ad904963fab7",
+ "size": 2618368,
  "kind": "app",
- "notes": "Edit: drag photos (or a folder of them) from File Explorer onto the photo list to import them; backgrounds can be dragged onto Import > Background. The Import buttons now open in the folder you last imported from."
+ "notes": "Prep: when the AI is unsure of someone's shirt against a wall the same color, Prep's self-check now keeps just their body instead of leaving the whole wall beside them unpainted. A sign touching someone's head still needs Masks > Remove Alpha (see the guide)."
 }
