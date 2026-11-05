@@ -1,8 +1,8 @@
 {
- "version": "2.6.6",
- "url": "updates/2.6.6/PhotoPrep-2.6.6-update.exe",
- "sha256": "8464144c354899d037d0b793bc590f242957f183e7b86c5590e7ccb552ff4384",
- "size": 2620416,
+ "version": "2.7.0",
+ "url": "updates/2.7.0/PhotoPrep-2.7.0-update.exe",
+ "sha256": "21e7e75bce210a2d4200d7839a475a16796c327635fd1eaaf26de11fc0d49ffe",
+ "size": 2670080,
  "kind": "app",
- "notes": "Masks: a mask you haven't closed keeps its points. Leave for another tool or photo, come back, and it carries on where you left off - keep clicking, then click the first point to close it."
+ "notes": "New: Group Photos, a third tile on the dashboard for big groups shot as they are. Step 1 loads the folder and lists every photo with a box for the group's name; no green fill or red eye. The name prints small (14 pt) in the lower right corner and names the exported file. Edit adds the template's overlay and logos with auto color and brightness; Export works as in Door Mode, no background needed."
 }
