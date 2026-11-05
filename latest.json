@@ -1,8 +1,8 @@
 {
- "version": "2.7.0",
- "url": "updates/2.7.0/PhotoPrep-2.7.0-update.exe",
- "sha256": "21e7e75bce210a2d4200d7839a475a16796c327635fd1eaaf26de11fc0d49ffe",
- "size": 2670080,
+ "version": "2.7.1",
+ "url": "updates/2.7.1/PhotoPrep-2.7.1-update.exe",
+ "sha256": "0b2ef553e604502ba9ebad7f14127ef967397e8ccc6605693dbddcc7febc6c4f",
+ "size": 2681344,
  "kind": "app",
- "notes": "New: Group Photos, a third tile on the dashboard for big groups shot as they are. Step 1 loads the folder and lists every photo with a box for the group's name; no green fill or red eye. The name prints small (14 pt) in the lower right corner and names the exported file. Edit adds the template's overlay and logos with auto color and brightness; Export works as in Door Mode, no background needed."
+ "notes": "Group Photos: templates from Photoshop - load a show's .psd as the overlay and Photo Prep finds the window for the group. Each photo is placed in it the way X-treme's staff place them by hand (matched to within about 1% on their finished prints). The group's name now prints bold under the title (position and size adjustable per template in Text)."
 }
