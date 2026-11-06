@@ -1,8 +1,8 @@
 {
- "version": "2.9.0",
- "url": "updates/2.9.0/PhotoPrep-2.9.0-update.exe",
- "sha256": "a8a9b4f4d8516e9782993a781970b6ed73e19a15aff751e48c1882e3c2772b6d",
- "size": 2829312,
+ "version": "2.9.1",
+ "url": "updates/2.9.1/PhotoPrep-2.9.1-update.exe",
+ "sha256": "646ada48c418d0a64ec583ba737241609cc1b0d70c49948ab3200eeafcc82644",
+ "size": 2853888,
  "kind": "app",
- "notes": "The AI can run on the graphics card. On a PC with one, Photo Prep downloads graphics-card support by itself and adds it the next time it closes, then checks the card against the CPU; it's only used if it gives the same answer and is faster, and it's checked again every time Photo Prep opens. The footer shows AI: graphics card or AI: CPU (click it to see why or switch it off). No full install needed."
+ "notes": "Train: a supervisor can teach a template its placement margins. Place a few good photos by hand, then Canvas > Train from photos placed by hand, enter the supervisor PIN, check the old and new numbers and click OK. Works in Door Mode, Meet and Greet and Group Photos. Save the template to keep the new margins."
 }
