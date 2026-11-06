@@ -1,8 +1,8 @@
 {
- "version": "2.9.8",
- "url": "updates/2.9.8/PhotoPrep-2.9.8-update.exe",
- "sha256": "9e937ba7d3c40166530db52e79d338d97e91adfd50ea4d2544bba03c92a95033",
- "size": 2919424,
+ "version": "2.9.9",
+ "url": "updates/2.9.9/PhotoPrep-2.9.9-update.exe",
+ "sha256": "8b03988fb71c0f6bbeb576e29f8c16e27c371d15de0f5125cf9a59c8221d4ef3",
+ "size": 2924544,
  "kind": "app",
- "notes": "Group Photos: Edit's tools are now Canvas, Import, AI, Frame, Filters, Position, Layers, Text. Key, Masks, Effects and Overlay are gone in Group Photos (Door Mode and Meet and Greet keep them). Frame holds the show's frame or the picture the oval window is cut from, the Oval Window settings, and Theatre Seats."
+ "notes": "Meet and Greet has its own templates and training; three template folders (Door Mode, Meet and Greet, Group Photos)"
 }
