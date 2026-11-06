@@ -1,8 +1,8 @@
 {
- "version": "2.9.5",
- "url": "updates/2.9.5/PhotoPrep-2.9.5-update.exe",
- "sha256": "9fa58fdae2ee4f102464a75f79d8e11fb31234af99fac9d2470600e2b8633440",
- "size": 2893824,
+ "version": "2.9.6",
+ "url": "updates/2.9.6/PhotoPrep-2.9.6-update.exe",
+ "sha256": "7b20b625ecc78958100760e41a3d04064943b1a563dde5b7e01d5dcdb2b96da1",
+ "size": 2910720,
  "kind": "app",
- "notes": "Switching between Door Mode and Group Photos no longer clears the template: each mode keeps its own, unsaved changes included, and it comes back when you switch back. The two still never mix."
+ "notes": "Group Photos names: Export now lists photos with no group name and asks before exporting; a name typed a moment before switching pages or exporting always goes in first, and a name that didn't save is tried again. Long names go onto more lines before shrinking, and step 1, Edit and Export warn when one would print small. The name's style, size and spot change every photo at once. Print file names keep the name as typed (Smith & Sons.jpg)."
 }
