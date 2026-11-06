@@ -1,8 +1,8 @@
 {
- "version": "2.7.2",
- "url": "updates/2.7.2/PhotoPrep-2.7.2-update.exe",
- "sha256": "4d39cae55647806cad29f2990304a7655b1bd19d21d843b8fc8732ed140aabca",
- "size": 2710528,
+ "version": "2.7.3",
+ "url": "updates/2.7.3/PhotoPrep-2.7.3-update.exe",
+ "sha256": "e6d0af946a4c80d09f4b7e33ae349a5eaefb5fdd43e2e563b0b0c971f6ed0b3c",
+ "size": 2729984,
  "kind": "app",
- "notes": "Group Photos: Oval Window - load any picture as the frame and Photo Prep cuts the oval out of the middle, shaped exactly like the Clay Cooper PSDs' windows (Clay Cooper Theatre with its outline, Christmas, Hot Rods soft edge, Matt Gumm, 60s), with sliders to fine-tune. Saved in the template."
+ "notes": "Group Photos for King's Castle: theatre seats along the bottom painted over with carpet (people never touched); placement per template (Clay Cooper 88/64, King's Castle 92/47, measured on X-treme's prints); the group name can be red serif on two lines beside the year (King's Castle) or bold white under the title (Clay Cooper)."
 }
