@@ -1,8 +1,8 @@
 {
- "version": "2.8.1",
- "url": "updates/2.8.1/PhotoPrep-2.8.1-update.exe",
- "sha256": "b44ce687524f72bca56af1bb9c186da97c9f060c1262201fa4a7742a298a521a",
- "size": 2783232,
+ "version": "2.9.0",
+ "url": "updates/2.9.0/PhotoPrep-2.9.0-update.exe",
+ "sha256": "a8a9b4f4d8516e9782993a781970b6ed73e19a15aff751e48c1882e3c2772b6d",
+ "size": 2829312,
  "kind": "app",
- "notes": "User Guide checked line by line against the app: out-of-date bits fixed (selecting several photos, the overlay box, preview zoom, what happens after a restart), Group Photos details added (Group Placement, Theatre Seats, name style, how print names stay unique), repeats removed. The READ ME no longer describes features the app dropped. No changes to how the app works."
+ "notes": "The AI can run on the graphics card. On a PC with one, Photo Prep downloads graphics-card support by itself and adds it the next time it closes, then checks the card against the CPU; it's only used if it gives the same answer and is faster, and it's checked again every time Photo Prep opens. The footer shows AI: graphics card or AI: CPU (click it to see why or switch it off). No full install needed."
 }
