@@ -1,8 +1,8 @@
 {
- "version": "2.7.5",
- "url": "updates/2.7.5/PhotoPrep-2.7.5-update.exe",
- "sha256": "94ba378ad90069196e187a0240b512bdb58d843956861d84caedc030b8f92ac5",
- "size": 2736128,
+ "version": "2.7.6",
+ "url": "updates/2.7.6/PhotoPrep-2.7.6-update.exe",
+ "sha256": "f30b402bfbc2889747c008cf90a95cb5e1f8de4ce8f76a57c94606c49e4c570f",
+ "size": 2741248,
  "kind": "app",
- "notes": "Group Photos: the King's Castle name style matches the prints - a word per line (up to three), red or black serif (black on the Irish Tenors). Irish Tenors template updated."
+ "notes": "Dashboard: Photo Folder - pick the photo backup folder once; Prep, Group Photos and Edit's Import then open there (or beside the last card picked in it)."
 }
