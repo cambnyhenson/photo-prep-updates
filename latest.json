@@ -1,8 +1,8 @@
 {
- "version": "2.9.9",
- "url": "updates/2.9.9/PhotoPrep-2.9.9-update.exe",
- "sha256": "8b03988fb71c0f6bbeb576e29f8c16e27c371d15de0f5125cf9a59c8221d4ef3",
- "size": 2924544,
+ "version": "2.10.0",
+ "url": "updates/2.10.0/PhotoPrep-2.10.0-update.exe",
+ "sha256": "a99fc7f9419cf1d5d7c1003ee035cd8edc32c4098a194ce1fe5b4eed15381f37",
+ "size": 7985152,
  "kind": "app",
- "notes": "Meet and Greet has its own templates and training; three template folders (Door Mode, Meet and Greet, Group Photos)"
+ "notes": "Closed-eye warning: Door Mode and Meet and Greet flag photos where someone may have blinked (Eyes may be closed: 2nd from right). A warning only."
 }
