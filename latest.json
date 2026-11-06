@@ -1,8 +1,8 @@
 {
- "version": "2.7.8",
- "url": "updates/2.7.8/PhotoPrep-2.7.8-update.exe",
- "sha256": "b12234889fc1c5f8643cb45c879ac9aa0a64c141156a6f3c21e8227011106c73",
- "size": 2774016,
+ "version": "2.7.9",
+ "url": "updates/2.7.9/PhotoPrep-2.7.9-update.exe",
+ "sha256": "9137c264aa37d83f98be9926ba320a5acb809391d329204bc36a802093fcdd41",
+ "size": 2775552,
  "kind": "app",
- "notes": "Edit: the yellow box works like PhotoKey's Position tool - drag inside to move; a crosshair in the middle: drag its vertical arm up/down to scale, its horizontal arm left/right to rotate."
+ "notes": "Audit fixes: after the photo engine restarts mid-show it keeps the mode (Meet and Greet stays 8x10, Group Photos keeps its own templates); export names never overwrite each other (capitals, or a group named like another photo); King's Castle seat fill runs once per photo (previews about 3x faster the first time); an older Door template with a frame on a canvas colour isn't mistaken for a Group template; wording fixes."
 }
