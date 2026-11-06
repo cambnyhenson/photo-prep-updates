@@ -1,8 +1,8 @@
 {
- "version": "2.9.2",
- "url": "updates/2.9.2/PhotoPrep-2.9.2-update.exe",
- "sha256": "c534329c4ae92bf92ac4bb14d3d47213dfd99812fcf87f0d5c741ce8db415ea5",
- "size": 2864128,
+ "version": "2.9.3",
+ "url": "updates/2.9.3/PhotoPrep-2.9.3-update.exe",
+ "sha256": "a132c8232937e6c3798da254f7d51f267b1cf2ff060b6aa46dbc25e268cda439",
+ "size": 2869760,
  "kind": "app",
- "notes": "Meet and Greet: a Camera Battery tile under Photo Transfer in Edit shows the camera's charge as a bar and about how long it has left at tonight's rate. It turns red at 15% (swap the battery soon). Works over Wi-Fi or USB."
+ "notes": "Updates can now come from a private repository: Photo Prep carries its own read-only password for downloading them. If GitHub ever turns it down, the footer says so. Nothing else changes."
 }
