@@ -1,8 +1,8 @@
 {
- "version": "2.7.1",
- "url": "updates/2.7.1/PhotoPrep-2.7.1-update.exe",
- "sha256": "0b2ef553e604502ba9ebad7f14127ef967397e8ccc6605693dbddcc7febc6c4f",
- "size": 2681344,
+ "version": "2.7.2",
+ "url": "updates/2.7.2/PhotoPrep-2.7.2-update.exe",
+ "sha256": "4d39cae55647806cad29f2990304a7655b1bd19d21d843b8fc8732ed140aabca",
+ "size": 2710528,
  "kind": "app",
- "notes": "Group Photos: templates from Photoshop - load a show's .psd as the overlay and Photo Prep finds the window for the group. Each photo is placed in it the way X-treme's staff place them by hand (matched to within about 1% on their finished prints). The group's name now prints bold under the title (position and size adjustable per template in Text)."
+ "notes": "Group Photos: Oval Window - load any picture as the frame and Photo Prep cuts the oval out of the middle, shaped exactly like the Clay Cooper PSDs' windows (Clay Cooper Theatre with its outline, Christmas, Hot Rods soft edge, Matt Gumm, 60s), with sliders to fine-tune. Saved in the template."
 }
