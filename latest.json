@@ -1,8 +1,8 @@
 {
- "version": "2.10.0",
- "url": "updates/2.10.0/PhotoPrep-2.10.0-update.exe",
- "sha256": "a99fc7f9419cf1d5d7c1003ee035cd8edc32c4098a194ce1fe5b4eed15381f37",
+ "version": "2.10.1",
+ "url": "updates/2.10.1/PhotoPrep-2.10.1-update.exe",
+ "sha256": "a0e0883fc6aaad395f07f584c7ee2cd97b2c771e58d61f19fdd1bcb2252d16aa",
  "size": 7985152,
  "kind": "app",
- "notes": "Closed-eye warning: Door Mode and Meet and Greet flag photos where someone may have blinked (Eyes may be closed: 2nd from right). A warning only."
+ "notes": "Fixes the update window popping up on every start."
 }
