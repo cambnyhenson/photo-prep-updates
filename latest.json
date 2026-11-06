@@ -1,8 +1,8 @@
 {
- "version": "2.9.1",
- "url": "updates/2.9.1/PhotoPrep-2.9.1-update.exe",
- "sha256": "646ada48c418d0a64ec583ba737241609cc1b0d70c49948ab3200eeafcc82644",
- "size": 2853888,
+ "version": "2.9.2",
+ "url": "updates/2.9.2/PhotoPrep-2.9.2-update.exe",
+ "sha256": "c534329c4ae92bf92ac4bb14d3d47213dfd99812fcf87f0d5c741ce8db415ea5",
+ "size": 2864128,
  "kind": "app",
- "notes": "Train: a supervisor can teach a template its placement margins. Place a few good photos by hand, then Canvas > Train from photos placed by hand, enter the supervisor PIN, check the old and new numbers and click OK. Works in Door Mode, Meet and Greet and Group Photos. Save the template to keep the new margins."
+ "notes": "Meet and Greet: a Camera Battery tile under Photo Transfer in Edit shows the camera's charge as a bar and about how long it has left at tonight's rate. It turns red at 15% (swap the battery soon). Works over Wi-Fi or USB."
 }
