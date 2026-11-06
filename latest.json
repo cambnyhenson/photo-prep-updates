@@ -1,8 +1,8 @@
 {
- "version": "2.7.6",
- "url": "updates/2.7.6/PhotoPrep-2.7.6-update.exe",
- "sha256": "f30b402bfbc2889747c008cf90a95cb5e1f8de4ce8f76a57c94606c49e4c570f",
- "size": 2741248,
+ "version": "2.7.7",
+ "url": "updates/2.7.7/PhotoPrep-2.7.7-update.exe",
+ "sha256": "e9e3a24625e829be75f0253d6e397f489df127db6b8f993e84af1bc076ea4d53",
+ "size": 2748416,
  "kind": "app",
- "notes": "Dashboard: Photo Folder - pick the photo backup folder once; Prep, Group Photos and Edit's Import then open there (or beside the last card picked in it)."
+ "notes": "Edit: mouse wheel zooms the preview in on the pointer (up to 8x, sharp full-size preview while zoomed); zoomed in, left-drag moves the photo around; Ctrl+0 fits again. Mask points are smaller for fine detail."
 }
