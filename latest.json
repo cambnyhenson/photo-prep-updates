@@ -1,8 +1,8 @@
 {
- "version": "2.9.3",
- "url": "updates/2.9.3/PhotoPrep-2.9.3-update.exe",
- "sha256": "a132c8232937e6c3798da254f7d51f267b1cf2ff060b6aa46dbc25e268cda439",
- "size": 2869760,
+ "version": "2.9.4",
+ "url": "updates/2.9.4/PhotoPrep-2.9.4-update.exe",
+ "sha256": "9bf847eb8ed0c6e7b90cd366e96e514e77814869f71c4d9cf2cc5c02e0b155d3",
+ "size": 2891776,
  "kind": "app",
- "notes": "Updates can now come from a private repository: Photo Prep carries its own read-only password for downloading them. If GitHub ever turns it down, the footer says so. Nothing else changes."
+ "notes": "Group Photos: an x on each photo's thumbnail (step 1) takes a test shot out of the batch. It isn't edited or exported, loading the folder again doesn't bring it back, and Undo puts it back. The file stays on disk."
 }
