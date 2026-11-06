@@ -1,8 +1,8 @@
 {
- "version": "2.9.7",
- "url": "updates/2.9.7/PhotoPrep-2.9.7-update.exe",
- "sha256": "f316aa0a882ceeffbf0c0a81f2f6ac07f592f6050a6356d6069e3697150875c8",
- "size": 2914816,
+ "version": "2.9.8",
+ "url": "updates/2.9.8/PhotoPrep-2.9.8-update.exe",
+ "sha256": "9e937ba7d3c40166530db52e79d338d97e91adfd50ea4d2544bba03c92a95033",
+ "size": 2919424,
  "kind": "app",
- "notes": "Edit: the up and down arrow keys (and Page Up / Page Down) change the photo wherever you clicked last - a tool button, a tick box, the photo list or the preview. Before, after clicking a button they moved between buttons instead."
+ "notes": "Group Photos: Edit's tools are now Canvas, Import, AI, Frame, Filters, Position, Layers, Text. Key, Masks, Effects and Overlay are gone in Group Photos (Door Mode and Meet and Greet keep them). Frame holds the show's frame or the picture the oval window is cut from, the Oval Window settings, and Theatre Seats."
 }
