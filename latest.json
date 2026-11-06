@@ -1,8 +1,8 @@
 {
- "version": "2.7.7",
- "url": "updates/2.7.7/PhotoPrep-2.7.7-update.exe",
- "sha256": "e9e3a24625e829be75f0253d6e397f489df127db6b8f993e84af1bc076ea4d53",
- "size": 2748416,
+ "version": "2.7.8",
+ "url": "updates/2.7.8/PhotoPrep-2.7.8-update.exe",
+ "sha256": "b12234889fc1c5f8643cb45c879ac9aa0a64c141156a6f3c21e8227011106c73",
+ "size": 2774016,
  "kind": "app",
- "notes": "Edit: mouse wheel zooms the preview in on the pointer (up to 8x, sharp full-size preview while zoomed); zoomed in, left-drag moves the photo around; Ctrl+0 fits again. Mask points are smaller for fine detail."
+ "notes": "Edit: the yellow box works like PhotoKey's Position tool - drag inside to move; a crosshair in the middle: drag its vertical arm up/down to scale, its horizontal arm left/right to rotate."
 }
