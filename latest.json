@@ -1,8 +1,8 @@
 {
- "version": "2.9.4",
- "url": "updates/2.9.4/PhotoPrep-2.9.4-update.exe",
- "sha256": "9bf847eb8ed0c6e7b90cd366e96e514e77814869f71c4d9cf2cc5c02e0b155d3",
- "size": 2891776,
+ "version": "2.9.5",
+ "url": "updates/2.9.5/PhotoPrep-2.9.5-update.exe",
+ "sha256": "9fa58fdae2ee4f102464a75f79d8e11fb31234af99fac9d2470600e2b8633440",
+ "size": 2893824,
  "kind": "app",
- "notes": "Group Photos: an x on each photo's thumbnail (step 1) takes a test shot out of the batch. It isn't edited or exported, loading the folder again doesn't bring it back, and Undo puts it back. The file stays on disk."
+ "notes": "Switching between Door Mode and Group Photos no longer clears the template: each mode keeps its own, unsaved changes included, and it comes back when you switch back. The two still never mix."
 }
