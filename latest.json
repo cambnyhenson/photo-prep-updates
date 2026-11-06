@@ -1,8 +1,8 @@
 {
- "version": "2.7.4",
- "url": "updates/2.7.4/PhotoPrep-2.7.4-update.exe",
- "sha256": "b9ed37704d17692113af2c5ad8e5a0f053f92fd40c2b92e508e85934b77c6e86",
- "size": 2735104,
+ "version": "2.7.5",
+ "url": "updates/2.7.5/PhotoPrep-2.7.5-update.exe",
+ "sha256": "94ba378ad90069196e187a0240b512bdb58d843956861d84caedc030b8f92ac5",
+ "size": 2736128,
  "kind": "app",
- "notes": "Group Photos keeps its own templates: switching into or out of Group Photos starts with no template, Door templates won't open in Group Photos (and the other way round), and a folder's remembered setup only returns in the same kind of mode. Door Mode and Meet and Greet still share."
+ "notes": "Group Photos: the King's Castle name style matches the prints - a word per line (up to three), red or black serif (black on the Irish Tenors). Irish Tenors template updated."
 }
