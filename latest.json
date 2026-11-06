@@ -1,8 +1,8 @@
 {
- "version": "2.7.9",
- "url": "updates/2.7.9/PhotoPrep-2.7.9-update.exe",
- "sha256": "9137c264aa37d83f98be9926ba320a5acb809391d329204bc36a802093fcdd41",
- "size": 2775552,
+ "version": "2.8.0",
+ "url": "updates/2.8.0/PhotoPrep-2.8.0-update.exe",
+ "sha256": "8b8869a03b006603dbf02c4fe0bd8c1ee0f20ec2a1840279b8502ecd914ccf35",
+ "size": 2776064,
  "kind": "app",
- "notes": "Audit fixes: after the photo engine restarts mid-show it keeps the mode (Meet and Greet stays 8x10, Group Photos keeps its own templates); export names never overwrite each other (capitals, or a group named like another photo); King's Castle seat fill runs once per photo (previews about 3x faster the first time); an older Door template with a frame on a canvas colour isn't mistaken for a Group template; wording fixes."
+ "notes": "Canvas: big groups (5+ people) now fill at most 92% of the print's width (was 96%). Every template and saved folder from before takes the new 92% when opened; templates saved from now on keep whatever is set."
 }
