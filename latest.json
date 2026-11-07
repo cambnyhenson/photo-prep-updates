@@ -1,8 +1,8 @@
 {
- "version": "2.13.0",
- "url": "updates/2.13.0/PhotoPrep-2.13.0-update.exe",
- "sha256": "adb9ee2530147b7acc1d7c882ea974213c963e5c8a8e90e404affc787ef311da",
- "size": 14840320,
+ "version": "2.13.1",
+ "url": "updates/2.13.1/PhotoPrep-2.13.1-update.exe",
+ "sha256": "348b0bbff5676a0abace18ce9371068ec669ac2b6d686f04a3a836273305fdac",
+ "size": 14859264,
  "kind": "app",
- "notes": "Closed-eye warning catches more blinks (behind glasses too), without more false alarms; in Meet and Greet it runs in the background."
+ "notes": "Fixes from a full check of the recent additions: Light touch now saves in the template, imported photos get the eye check, eye warnings show at once."
 }
