@@ -1,8 +1,8 @@
 {
- "version": "2.10.1",
- "url": "updates/2.10.1/PhotoPrep-2.10.1-update.exe",
- "sha256": "a0e0883fc6aaad395f07f584c7ee2cd97b2c771e58d61f19fdd1bcb2252d16aa",
- "size": 7985152,
+ "version": "2.11.0",
+ "url": "updates/2.11.0/PhotoPrep-2.11.0-update.exe",
+ "sha256": "b2d1750dd79210d098bc03b916291f1d78de8a8ddba12df202e271f27544d418",
+ "size": 8018432,
  "kind": "app",
- "notes": "Fixes the update window popping up on every start."
+ "notes": "Keep the real floor: for full-length shows like SIX, the floor stays as shot and only the backdrop above the curtain is replaced (Canvas > People Placement)."
 }
