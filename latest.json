@@ -1,8 +1,8 @@
 {
- "version": "2.12.0",
- "url": "updates/2.12.0/PhotoPrep-2.12.0-update.exe",
- "sha256": "b72bcba63e6312d4b1de8b50d8d15c37232da919d483828dfb021d4dfd0b23ba",
- "size": 8030720,
+ "version": "2.13.0",
+ "url": "updates/2.13.0/PhotoPrep-2.13.0-update.exe",
+ "sha256": "adb9ee2530147b7acc1d7c882ea974213c963e5c8a8e90e404affc787ef311da",
+ "size": 14840320,
  "kind": "app",
- "notes": "Keep the real floor on one photo: Masks > Floor - a full-length group in Door Mode keeps its floor, only that photo."
+ "notes": "Closed-eye warning catches more blinks (behind glasses too), without more false alarms; in Meet and Greet it runs in the background."
 }
