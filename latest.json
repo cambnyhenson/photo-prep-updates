@@ -1,8 +1,8 @@
 {
- "version": "2.11.0",
- "url": "updates/2.11.0/PhotoPrep-2.11.0-update.exe",
- "sha256": "b2d1750dd79210d098bc03b916291f1d78de8a8ddba12df202e271f27544d418",
- "size": 8018432,
+ "version": "2.11.1",
+ "url": "updates/2.11.1/PhotoPrep-2.11.1-update.exe",
+ "sha256": "4a5f55baf38801413df0888880ea6ed6885378b4c4de2ad7875b69720eb17378",
+ "size": 8024064,
  "kind": "app",
- "notes": "Keep the real floor: for full-length shows like SIX, the floor stays as shot and only the backdrop above the curtain is replaced (Canvas > People Placement)."
+ "notes": "SIX: Auto Brightness gets a Light touch style (no more washed-out faces), and tightly framed shots keep their floor."
 }
