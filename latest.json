@@ -1,8 +1,8 @@
 {
- "version": "2.11.1",
- "url": "updates/2.11.1/PhotoPrep-2.11.1-update.exe",
- "sha256": "4a5f55baf38801413df0888880ea6ed6885378b4c4de2ad7875b69720eb17378",
- "size": 8024064,
+ "version": "2.12.0",
+ "url": "updates/2.12.0/PhotoPrep-2.12.0-update.exe",
+ "sha256": "b72bcba63e6312d4b1de8b50d8d15c37232da919d483828dfb021d4dfd0b23ba",
+ "size": 8030720,
  "kind": "app",
- "notes": "SIX: Auto Brightness gets a Light touch style (no more washed-out faces), and tightly framed shots keep their floor."
+ "notes": "Keep the real floor on one photo: Masks > Floor - a full-length group in Door Mode keeps its floor, only that photo."
 }
