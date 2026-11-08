@@ -1,8 +1,8 @@
 {
- "version": "2.14.1",
- "url": "updates/2.14.1/PhotoPrep-2.14.1-update.exe",
- "sha256": "eec510a0194a4835be8444dbea486c8ecf7d1dadf96d75a9d5478338445c2487",
- "size": 14872064,
+ "version": "2.14.2",
+ "url": "updates/2.14.2/PhotoPrep-2.14.2-update.exe",
+ "sha256": "d6263115decb8fbaf05b24cce721039801ddca0f0e98b09de7f1d6f9bdee95ac",
+ "size": 14875648,
  "kind": "app",
- "notes": "Green fill fixes: a guest in a green-ish sweater is no longer painted out; the curtain's dark sides are painted instead of leaving a ragged dark rim; the high table and stools at the frame's edge are painted."
+ "notes": "Fixes the Blues Brother on the left losing his arm against the dark wall, and the chunk of wall kept by his shoulder."
 }
