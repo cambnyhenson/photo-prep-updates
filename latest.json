@@ -1,8 +1,8 @@
 {
- "version": "2.14.0",
- "url": "updates/2.14.0/PhotoPrep-2.14.0-update.exe",
- "sha256": "2e885d1483f0ba4901c250dbf6b7f4110eb4ddb7c18dcdb73307e66750df94ee",
- "size": 14866432,
+ "version": "2.14.1",
+ "url": "updates/2.14.1/PhotoPrep-2.14.1-update.exe",
+ "sha256": "eec510a0194a4835be8444dbea486c8ecf7d1dadf96d75a9d5478338445c2487",
+ "size": 14872064,
  "kind": "app",
- "notes": "Send logs now sends the logs straight to the owner (offline PCs send them the next time they're online)."
+ "notes": "Green fill fixes: a guest in a green-ish sweater is no longer painted out; the curtain's dark sides are painted instead of leaving a ragged dark rim; the high table and stools at the frame's edge are painted."
 }
