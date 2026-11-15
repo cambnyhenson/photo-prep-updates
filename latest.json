@@ -1,8 +1,8 @@
 {
- "version": "2.16.7",
- "url": "updates/2.16.7/PhotoPrep-2.16.7-update.exe",
- "sha256": "0534dc58b68995f2f4c38a3c3e50e43a9c85a8b7628222befeb60e70304b3474",
- "size": 44317184,
+ "version": "2.16.8",
+ "url": "updates/2.16.8/PhotoPrep-2.16.8-update.exe",
+ "sha256": "c775eca7814f4dda71940000c5bfa358c216c0c825fbf0f1ba1a1206f9bf3949",
+ "size": 44351488,
  "kind": "app",
- "notes": "X-treme person model (default, about 10x faster Prep), better red-eye fix, JPEG group frames, Print Preview and footer fixes, closed-eyes warning stays on screen."
+ "notes": "Held coat no longer pushes people off centre; drag and drop everywhere you can import (including the Group Photos frame); mask dots and the yellow box no longer lag."
 }
