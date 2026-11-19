@@ -1,8 +1,8 @@
 {
- "version": "2.16.8",
- "url": "updates/2.16.8/PhotoPrep-2.16.8-update.exe",
- "sha256": "c775eca7814f4dda71940000c5bfa358c216c0c825fbf0f1ba1a1206f9bf3949",
- "size": 44351488,
+ "version": "2.16.9",
+ "url": "updates/2.16.9/PhotoPrep-2.16.9-update.exe",
+ "sha256": "029b24cfa35a301c93df084c9168510ed4d983bf2910d870b097e891980bd5d6",
+ "size": 44406272,
  "kind": "app",
- "notes": "Held coat no longer pushes people off centre; drag and drop everywhere you can import (including the Group Photos frame); mask dots and the yellow box no longer lag."
+ "notes": "Person model x4 (adds SIX Meet and Greet); Dismiss false-alarm warnings; Eyes tool; Door Mode templates on the Prep screen; drag and drop works again (never runs as administrator); Close tooltip no longer sticks."
 }
