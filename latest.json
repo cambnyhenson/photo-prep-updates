@@ -1,8 +1,8 @@
 {
- "version": "2.16.11",
- "url": "updates/2.16.11/PhotoPrep-2.16.11-update.exe",
- "sha256": "e90c9c95cf1327ab515ea02370f607821896669c400183bb9b457df0e7151732",
- "size": 44408320,
+ "version": "2.16.12",
+ "url": "updates/2.16.12/PhotoPrep-2.16.12-update.exe",
+ "sha256": "4b9f38ef17b91995cf1ee244825c841787457246efeb9bc7e7fb7397ae7d8a46",
+ "size": 44413440,
  "kind": "app",
- "notes": "Drop a folder anywhere on the Prep screen to set the input folder."
+ "notes": "Fixed copies aren't corrected twice: a photo saved over its Prepped file (for example a ChatGPT eyes fix) gets Auto Brightness and Auto White Balance turned off, its eye warning cleared, and a 'fixed copy' tag. Prep redoing it puts it back to normal."
 }
