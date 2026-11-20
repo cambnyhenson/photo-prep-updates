@@ -1,8 +1,8 @@
 {
- "version": "2.16.9",
- "url": "updates/2.16.9/PhotoPrep-2.16.9-update.exe",
- "sha256": "029b24cfa35a301c93df084c9168510ed4d983bf2910d870b097e891980bd5d6",
- "size": 44406272,
+ "version": "2.16.10",
+ "url": "updates/2.16.10/PhotoPrep-2.16.10-update.exe",
+ "sha256": "d4994bcafc267bb533c9f62d1933ee92ed76e4e0dbebdbfc7598be650551c61f",
+ "size": 44406784,
  "kind": "app",
- "notes": "Person model x4 (adds SIX Meet and Greet); Dismiss false-alarm warnings; Eyes tool; Door Mode templates on the Prep screen; drag and drop works again (never runs as administrator); Close tooltip no longer sticks."
+ "notes": "Big downloads carry on after a dropped connection (venues with flaky internet get updates and graphics-card support)."
 }
