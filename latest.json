@@ -1,8 +1,8 @@
 {
- "version": "2.16.10",
- "url": "updates/2.16.10/PhotoPrep-2.16.10-update.exe",
- "sha256": "d4994bcafc267bb533c9f62d1933ee92ed76e4e0dbebdbfc7598be650551c61f",
- "size": 44406784,
+ "version": "2.16.11",
+ "url": "updates/2.16.11/PhotoPrep-2.16.11-update.exe",
+ "sha256": "e90c9c95cf1327ab515ea02370f607821896669c400183bb9b457df0e7151732",
+ "size": 44408320,
  "kind": "app",
- "notes": "Big downloads carry on after a dropped connection (venues with flaky internet get updates and graphics-card support)."
+ "notes": "Drop a folder anywhere on the Prep screen to set the input folder."
 }
